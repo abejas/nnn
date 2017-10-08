@@ -26,3 +26,10 @@ Import code
 
 
 page: http://bot-boss.com/programar-gpio-raspberry-pi-2-python/
+
+#/home/pi/Documents/abejas2
+#intento.py
+#importamos la libreria GPIO
+
+
+http://www.peatonet.com/raspberry-pi-y-los-pines-gpio-controlando-un-led-con-bash-y-con-python/
